@@ -1,0 +1,4 @@
+line 20 20 50 50 blue 
+circle 100 100 20 red
+box 10 10 300 300 purple
+

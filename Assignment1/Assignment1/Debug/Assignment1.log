@@ -1,0 +1,30 @@
+﻿Build started 22-Jul-14 5:17:16 PM.
+     1>Project "H:\kev\Kev\Desktop\College files\Semister1\Assignment1\Assignment1\Assignment1.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Assignment1.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt BOX.cpp CIRCLE.cpp LINE.cpp main.cpp shape.cpp
+         shape.cpp
+         main.cpp
+         LINE.cpp
+         CIRCLE.cpp
+         BOX.cpp
+         Generating Code...
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"H:\kev\Kev\Desktop\College files\Semister1\Assignment1\Debug\Assignment1.exe" /NOLOGO "allegro-4.4.2-md.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Assignment1.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"H:\kev\Kev\Desktop\College files\Semister1\Assignment1\Debug\Assignment1.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"H:\kev\Kev\Desktop\College files\Semister1\Assignment1\Debug\Assignment1.lib" /MACHINE:X86 Debug\BOX.obj
+         Debug\CIRCLE.obj
+         Debug\LINE.obj
+         Debug\main.obj
+         Debug\shape.obj
+         LINK : H:\kev\Kev\Desktop\College files\Semister1\Assignment1\Debug\Assignment1.exe not found or not built by the last incremental link; performing full link
+         Assignment1.vcxproj -> H:\kev\Kev\Desktop\College files\Semister1\Assignment1\Debug\Assignment1.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"H:\kev\Kev\Desktop\College files\Semister1\Assignment1\Debug\Assignment1.exe;#1" /manifest Debug\Assignment1.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\Assignment1.unsuccessfulbuild".
+         Touching "Debug\Assignment1.lastbuildstate".
+     1>Done Building Project "H:\kev\Kev\Desktop\College files\Semister1\Assignment1\Assignment1\Assignment1.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:48.74
